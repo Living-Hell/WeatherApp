@@ -24,7 +24,6 @@ Clone the repository<br>
 Install dependencies with npm install.<br>
 Obtain an API key from OpenWeatherMap and replace the placeholder in the code with your key.<br>
 Run the app with npm start.<br>
-Feel free to customize and enhance the application according to your needs!<br>
 
 
 <h2>
