@@ -1,5 +1,6 @@
 <h1>Weather App</h1>
 This is a simple React weather application that allows users to check the current weather conditions for a specific city. The app utilizes the OpenWeatherMap API to fetch real-time weather data.
+
 ![1](https://github.com/Living-Hell/WeatherApp/assets/74912161/b79ed756-2d38-46ab-9e8a-ef3956f9666c)
 
 ![2](https://github.com/Living-Hell/WeatherApp/assets/74912161/502f9ead-f801-487c-b1ec-c3a1220612bd)
